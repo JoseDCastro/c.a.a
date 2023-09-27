@@ -7,7 +7,7 @@ O projeto será desenvolvido inicialmente em Linguagem Python com a utilização
 Autor do Projeto: Jose De Castro
 Versão 0.0.1
 
-A Aplicação será desenvolvida inicialmente em modo navegador, de modo a ampliar o acesso livre por professores, Fonaudiólogos, Pais, psicólogos e demais profissionais da áre de cuidados A PCD`s.
+A Aplicação será desenvolvida inicialmente em modo navegador, de modo a ampliar o acesso livre por professores, fonoaudiólogo, Pais, psicólogos e demais profissionais da áre de cuidados A PCD`s.
 "Trata-se de um auxiliador educacional e não um substituto do profissional manipulador."
 Inicialmente todo projeto estará contando com a orientação de profisionais da área de coordenadoria educacional do CIAM ( Centro Israelita de Apoio Multidisciplinar).
 
