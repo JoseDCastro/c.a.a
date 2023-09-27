@@ -2,7 +2,7 @@
 
 Projeto destinado ao auxílio e suporte educacional para crianças portdoras de deficiência intelectual ( Espectro Autistas e/ou Síndrome de Down.)
 
-O prjeto será desenvolvido inicialmente em Linguagem Python com a utilização das bibliotecas Pandas, matplotlib, Ploty, TensorFlow, NLTK, Pillow, OpenCv, SQLAlchemy, Py Torch, PyGame, PyAutoGui, QT6 Design, DeepFace.
+O projeto será desenvolvido inicialmente em Linguagem Python com a utilização das bibliotecas Pandas, matplotlib, Ploty, TensorFlow, NLTK, Pillow, OpenCv, SQLAlchemy, Py Torch, PyGame, PyAutoGui, QT6 Design, DeepFace.
 
 Autor do Projeto: Jose De Castro
 Versão 0.0.1
