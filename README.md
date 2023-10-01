@@ -2,6 +2,7 @@
 
 
 Cultura e atividade lúdica = Educação
+
 “A cultura pode ser definida como um conjunto de padrões de comportamento socialmente adquiridos, que são transmitidos simbolicamente aos membros de uma determinada sociedade” MOWEN; MINOR, 2003, p. 293(). 
 
 Verificamos que grande parte do processo a partir do qual nossa cultura se articula é regrado pelo lúdico. Historiadores, como Johan Huizinga (1999), argumentam que a atividade lúdica precede a organização da cultura na sociedade. Com isso entendemos que, ainda mais para crianças o manuseio do lúdico é capaz de levar o desenvolvimento intelectual e cognitivo fazendo-os galgar por horizontes por muitos impensáveis, mas totalmente possíveis.
