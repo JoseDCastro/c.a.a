@@ -14,8 +14,11 @@ Este projeto é destinado ao auxílio e suporte educacional para crianças portd
 
 O projeto será desenvolvido inicialmente em Linguagem Python com a utilização das bibliotecas Pandas, matplotlib, Ploty, TensorFlow, NLTK, Pillow, OpenCv, SQLAlchemy, Py Torch, PyGame, PyAutoGui, QT6 Design, DeepFace.
 
+
 Nome do Projeto: Comunic Ação( Comunic Ation )
+
 Autor do Projeto: Jose De Castro
+
 Versão 0.0.1
 
 A Aplicação será desenvolvida inicialmente em modo navegador, de modo a ampliar o acesso livre por professores, fonoaudiólogo, Pais, psicólogos e demais profissionais da áre de cuidados A PCD`s.
