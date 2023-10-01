@@ -7,7 +7,7 @@ Cultura e atividade lúdica = Educação
 Verificamos que grande parte do processo a partir do qual nossa cultura se articula é regrado pelo lúdico. Historiadores, como Johan Huizinga (1999), argumentam que a atividade lúdica precede a organização da cultura na sociedade. Com isso entendemos que, ainda mais para crianças o manuseio do lúdico é capaz de levar o desenvolvimento intelectual e cognitivo fazendo-os galgar por horizontes por muitos impensáveis, mas totalmente possíveis.
 
 
-<img src=".github/workflows/shutterstock_1234278556.jpg">
+<img src="https://github.com/JoseDCastro/c.a.a/blob/main/.github/workflows/AAC-Speech-Blog-1600x640.jpg">
 
 Este projeto é destinado ao auxílio e suporte educacional para crianças portdoras de deficiência intelectual ( Espectro Autistas e/ou Síndrome de Down.)
 
